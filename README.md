@@ -1,6 +1,21 @@
 # smalldev-tools
 Official repository of https://smalldev.tools/
 
+***
+
+## Sponsor:
+
+<p align="center">
+  <img width="150" src="https://smalldev.tools/img/Software-Deals-Offers.gif" alt="software-offer">
+</p>
+
+**[Subscribe](https://app.vbout.com/subscribe-twf/f/63323)**
+
+**(get Exclusive deals & offer straight to your Inbox)**<br /> 
+*No spam, your email is safe with us!*
+
+***
+
 ## New release V3 - Date February 26, 2022
 1. Added [Sorting List](https://smalldev.tools/sorting-list-online): Sort a list of numbers or strings alphabetically or by length
 2. Added [String Utilities](https://smalldev.tools/string-utils-online): Convert, Remove, Replace related Utilities for a string
